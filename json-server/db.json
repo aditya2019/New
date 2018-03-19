@@ -1,365 +1,12 @@
 {
   "movies": [
     {
-      "vote_count": 2655,
-      "id": 268,
-      "video": false,
-      "vote_average": 7,
-      "title": "Batman",
-      "popularity": 33.570968,
-      "poster_path": "/kBf3g9crrADGMc2AMAMlLBgSm2h.jpg",
-      "original_language": "en",
-      "original_title": "Batman",
-      "genre_ids": [
-        14,
-        28
-      ],
-      "backdrop_path": "/2blmxp2pr4BhwQr74AdCfwgfMOb.jpg",
-      "adult": false,
-      "overview": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker, who has seized control of Gotham's underworld.",
-      "release_date": "1989-06-23"
-    },
-    {
-      "vote_count": 262,
-      "id": 2661,
-      "video": false,
-      "vote_average": 6.1,
-      "title": "Batman",
-      "popularity": 8.366012,
-      "poster_path": "/udDVJXtAFsQ8DimrXkVFqy4DGEQ.jpg",
-      "original_language": "en",
-      "original_title": "Batman",
-      "genre_ids": [
-        10751,
-        12,
-        35,
-        878,
-        80
-      ],
-      "backdrop_path": "/5gcdof2PKH1emllBdN1VXU706IP.jpg",
-      "adult": false,
-      "overview": "The Dynamic Duo faces four super-villains who plan to hold the world for ransom with the help of a secret invention that instantly dehydrates people.",
-      "release_date": "1966-07-30"
-    },
-    {
-      "vote_count": 8913,
-      "id": 272,
-      "video": false,
-      "vote_average": 7.5,
-      "title": "Batman Begins",
-      "popularity": 41.445898,
-      "poster_path": "/dr6x4GyyegBWtinPBzipY02J2lV.jpg",
-      "original_language": "en",
-      "original_title": "Batman Begins",
-      "genre_ids": [
-        28,
-        80,
-        18
-      ],
-      "backdrop_path": "/65JWXDCAfwHhJKnDwRnEgVB411X.jpg",
-      "adult": false,
-      "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-      "release_date": "2005-06-10"
-    },
-    {
-      "vote_count": 2,
-      "id": 494061,
-      "video": false,
-      "vote_average": 7,
-      "title": "Hello!",
-      "popularity": 1.65173,
-      "poster_path": "/7Vl7Yx3rvVv0oWHakmDmc22cGDZ.jpg",
-      "original_language": "te",
-      "original_title": "Hello!",
-      "genre_ids": [
-        28,
-        10751,
-        10402,
-        10749
-      ],
-      "backdrop_path": "/2aqzHMZBv2MayQ57i3M27mZPF11.jpg",
-      "adult": false,
-      "overview": "Avinash/Seenu is a street urchin brought up by his loving adoptive parents Saru and Prakash. The love of his life is the girl he meets during childhood Junnu/Priya, whom fate had snatched away from him. Fourteen long years and they still wait for the day they will meet again. Will destiny help them?",
-      "release_date": "2017-12-22"
-    },
-    {
-      "vote_count": 0,
-      "id": 507531,
-      "video": false,
-      "vote_average": 0,
-      "title": "Hello & Goodbye",
-      "popularity": 4.099377,
-      "poster_path": "/lGTi0Ak7QLCMBnoOxj2WoNOMz0y.jpg",
-      "original_language": "en",
-      "original_title": "Hello & Goodbye",
-      "genre_ids": [],
-      "backdrop_path": null,
-      "adult": false,
-      "overview": "With wounds still open from the recent end of their 5 year relationship, Drew and Beth decide to meet up for a quiet dinner at Drew's apartment to help solidify their newly found station as \"just friends\".",
-      "release_date": "2018-03-09"
-    },
-    {
-      "vote_count": 0,
-      "id": 419478,
-      "video": false,
-      "vote_average": 0,
-      "title": "Midnight Sun",
-      "popularity": 11.395664,
-      "poster_path": "/cEd3PYAEkRbuAr9SgTC8l6znac.jpg",
-      "original_language": "en",
-      "original_title": "Midnight Sun",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "backdrop_path": "/xiDuiG4go4TPPI2JDMzqyImttyL.jpg",
-      "adult": false,
-      "overview": "Katie, a 17-year-old, has been sheltered since childhood and confined to her house during the day by a rare disease that makes even the smallest amount of sunlight deadly. Fate intervenes when she meets Charlie and they embark on a summer romance.",
-      "release_date": "2018-03-22"
-    },
-    {
-      "vote_count": 2216,
-      "id": 17431,
-      "video": false,
-      "vote_average": 7.6,
-      "title": "Moon",
-      "popularity": 26.564959,
-      "poster_path": "/2tgl9q3ZaVQUfSsbftqhRxXCElB.jpg",
-      "original_language": "en",
-      "original_title": "Moon",
-      "genre_ids": [
-        878,
-        18
-      ],
-      "backdrop_path": "/go6jnBNw2iNJKYTazt22SvxVI09.jpg",
-      "adult": false,
-      "overview": "With only three weeks left in his three year contract, Sam Bell is getting anxious to finally return to Earth. He is the only occupant of a Moon-based manufacturing facility along with his computer and assistant, GERTY. When he has an accident however, he wakens to find that he is not alone.",
-      "release_date": "2009-06-12"
-    },
-    {
-      "vote_count": 3308,
-      "id": 18239,
-      "video": false,
-      "vote_average": 5.6,
-      "title": "The Twilight Saga: New Moon",
-      "popularity": 49.979563,
-      "poster_path": "/4O6OCHVrXie2Th8asDn5utvlTwC.jpg",
-      "original_language": "en",
-      "original_title": "The Twilight Saga: New Moon",
-      "genre_ids": [
-        12,
-        14,
-        18,
-        10749
-      ],
-      "backdrop_path": "/10Wsi3dYCdxqgw7TLWQbHncGKnR.jpg",
-      "adult": false,
-      "overview": "Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she's thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks.",
-      "release_date": "2009-03-15"
-    },
-    {
-      "vote_count": 194,
-      "id": 11293,
-      "video": false,
-      "vote_average": 7.8,
-      "title": "Paper Moon",
-      "popularity": 8.948319,
-      "poster_path": "/xq7F3iUFJY1L4UFIHoO2Y3fmnE6.jpg",
-      "original_language": "en",
-      "original_title": "Paper Moon",
-      "genre_ids": [
-        35,
-        80,
-        18
-      ],
-      "backdrop_path": "/koQRgwuWvAqI95pdWAmbvlx1js0.jpg",
-      "adult": false,
-      "overview": "During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.",
-      "release_date": "1973-05-09"
-    },
-    {
-      "vote_count": 9,
-      "id": 20365,
-      "video": false,
-      "vote_average": 3.7,
-      "title": "Hello",
-      "popularity": 1.984998,
-      "poster_path": "/lzldL8ZBARt0vt6FdY4ahmIyXRD.jpg",
-      "original_language": "en",
-      "original_title": "Hello",
-      "genre_ids": [
-        18,
-        10769
-      ],
-      "backdrop_path": "/hkOA2f11NYjkNZBowK1zefaoo01.jpg",
-      "adult": false,
-      "overview": "Hello... is a tale about the events that happen one night at a call center. Told through the views of the protagonist, Shyam, it is a story of almost lost love, thwarted ambitions, absence of family affection, pressures of a patriarchal set up, and the work environment of a globalized office. Shyam is losing his girl friend because his career is going nowhere as he trudges his way around in a call center. His girl friend, Priyanka, is also an agent like him at the call center who is about to be snatched by an NRI technogeek. There is also the aspiring model, Esha, who is hoping for the break that seems to be always already eluding her and the man about town, Vroom, who is into well, things. The housewife, Radhika, who is constantly at the receiving end of her mother-in-law and a beleaguered grandfather, Military Uncle, who has been barred from interacting with his grandchild make up the...",
-      "release_date": "2008-10-10"
-    },
-    {
-      "vote_count": 2,
-      "id": 225281,
-      "video": false,
-      "vote_average": 4.3,
-      "title": "Hello Carter",
-      "popularity": 2.391524,
-      "poster_path": "/tB7iUajuKihS1IzBTA41SHoiSVP.jpg",
-      "original_language": "en",
-      "original_title": "Hello Carter",
-      "genre_ids": [
-        18,
-        35
-      ],
-      "backdrop_path": "/c9qfb8yMZIYumnSaGln3DbclVaD.jpg",
-      "adult": false,
-      "overview": "Down-on-his-luck Carter has recently become homeless, single and unemployed. Desperate to win back his ex-girlfriend, he goes off on an adventure throughout London to find her, picking up some odd helpers along the way.",
-      "release_date": "2013-10-11"
-    },
-    {
-      "vote_count": 1287,
-      "id": 1924,
-      "video": false,
-      "vote_average": 6.9,
-      "title": "Superman",
-      "popularity": 20.839562,
-      "poster_path": "/n2DOECThGG7h7m5AjLi2Nuh23u1.jpg",
-      "original_language": "en",
-      "original_title": "Superman",
-      "genre_ids": [
-        28,
-        12,
-        14,
-        878
-      ],
-      "backdrop_path": "/l4BuWj6RT9fG1idYkj6kTNtP50E.jpg",
-      "adult": false,
-      "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
-      "release_date": "1978-12-13"
-    },
-    {
-      "vote_count": 16,
-      "id": 35151,
-      "video": false,
-      "vote_average": 5,
-      "title": "Hello Again",
-      "popularity": 3.183479,
-      "poster_path": "/xmGWJyH5PcHUEFuqwGx9xTDS1qW.jpg",
-      "original_language": "en",
-      "original_title": "Hello Again",
-      "genre_ids": [
-        14,
-        18,
-        35,
-        878,
-        10749
-      ],
-      "backdrop_path": "/mBnl9Or1XNAIbRMb3WRkEqudCq7.jpg",
-      "adult": false,
-      "overview": "Lucy Chadman (Shelley Long) chokes to death and is resurrected by her loopy sister Zelda (Judith Ivey) on the one year anniversary of her death. Lucy, of course, does not believe she has actually been dead and thinks it is an elaborate hoax until she goes to her apartment and discovers her husband (Corbin Bernsen) married to her gold digging best friend, Kim (Sela Ward).",
-      "release_date": "1987-11-06"
-    },
-    {
-      "vote_count": 200,
-      "id": 320588,
-      "video": false,
-      "vote_average": 6.4,
-      "title": "Hello, My Name Is Doris",
-      "popularity": 8.992449,
-      "poster_path": "/hLzelb2k68qgtnxuWLicqDoBNzV.jpg",
-      "original_language": "en",
-      "original_title": "Hello, My Name Is Doris",
-      "genre_ids": [
-        35,
-        18,
-        10749
-      ],
-      "backdrop_path": "/vMwMgSjFKsGbXhW6Nvy517ipMUo.jpg",
-      "adult": false,
-      "overview": "A self-help seminar inspires a sixty-something woman to romantically pursue her younger co-worker.",
-      "release_date": "2015-11-27"
-    },
-    {
-      "vote_count": 1,
-      "id": 446289,
-      "video": false,
-      "vote_average": 5,
-      "title": "Hello Again",
-      "popularity": 2.619261,
-      "poster_path": "/bHHt3HIr7MpYiRSw1XNxZm3B3cn.jpg",
-      "original_language": "en",
-      "original_title": "Hello Again",
-      "genre_ids": [
-        18,
-        10402,
-        10749
-      ],
-      "backdrop_path": "/18STSjlbP0v8eE5kfkNEAsHC2dm.jpg",
-      "adult": false,
-      "overview": "Ten lost souls slip in and out of one another's arms in a daisy-chained musical exploration of love's bittersweet embrace. A film adaptation of Michael John LaChiusa's celebrated musical, originally based on Arthur Schnitzler's play, La Ronde.",
-      "release_date": "2017-11-08"
-    },
-    {
-      "vote_count": 2,
-      "id": 279177,
-      "video": false,
-      "vote_average": 5.3,
-      "title": "Hello! Junichi",
-      "popularity": 1.982934,
-      "poster_path": "/4sfVD7WMdRl7uVxMq2mIwHYmHE4.jpg",
-      "original_language": "en",
-      "original_title": "Halo! Junichi",
-      "genre_ids": [
-        35
-      ],
-      "backdrop_path": null,
-      "adult": false,
-      "overview": "Katsuhito Ishii (\"Funky Forest: The First Contact\" and \"The Taste of Tea\") takes on the story of Junichi--a timid third grader who can't muster the courage to return an eraser he borrowed from his secret crush--and turns it into a children's rock 'n' roll comedy. Junichi's world is turned upside down as apprentice teacher Anna-sensei (Hikari Mitsushima) scraps her lesson plan to show the rambunctious students about life as an adult. With Anna's unorthodox style, Junichi and his friends are able to gain confidence and pursue their goal of putting on a big concert. Co-directed with Kanoko Kawaguchi and Atsushi Yoshioka, \"Hello! Junichi\" brings out the kid in adults and lets kids be kids. Boasting Ishii's signature dance numbers and Yoshiyuki Morishita (the \"Japanese Steve Buscemi\") as the band's homeroom teacher, it's a unique experience built for future and current movie maniacs.",
-      "release_date": "2014-02-15"
-    },
-    {
-      "vote_count": 2358,
-      "id": 10201,
-      "video": false,
-      "vote_average": 6.4,
-      "title": "Yes Man",
-      "popularity": 21.25162,
-      "poster_path": "/zqSqnHb045TN8Lzt2X4IVy8dfAW.jpg",
-      "original_language": "en",
-      "original_title": "Yes Man",
-      "genre_ids": [
-        35
-      ],
-      "backdrop_path": "/oe32Z6gfjeNldrEPQWIrW1IbSaF.jpg",
-      "adult": false,
-      "overview": "Carl Allen has stumbled across a way to shake free of post-divorce blues and a dead-end job: embrace life and say yes to everything.",
-      "release_date": "2008-12-09"
-    },
-    {
-      "vote_count": 18,
-      "id": 421465,
-      "video": false,
-      "vote_average": 5.6,
-      "title": "Yes, God, Yes",
-      "popularity": 4.961788,
-      "poster_path": "/ftR7yM9zfPooU9qnlxvhivesvP6.jpg",
-      "original_language": "en",
-      "original_title": "Yes, God, Yes",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "backdrop_path": "/2kYP5ZRE7x5OUAh2lcSMRqE9448.jpg",
-      "adult": false,
-      "overview": "Fifteen-year-old Alice has always been a good Catholic, but when an innocent AOL chat turns unexpectedly racy, she finds herself suddenly obsessed with sex.",
-      "release_date": "2017-04-23"
-    },
-    {
       "vote_count": 74,
       "id": 14030,
       "video": false,
       "vote_average": 6.8,
       "title": "Hello, Dolly!",
-      "popularity": 5.596521,
+      "popularity": 7.97636,
       "poster_path": "/6VDANRGpRb4VGo5q0anoav5CoU7.jpg",
       "original_language": "en",
       "original_title": "Hello, Dolly!",
@@ -373,6 +20,83 @@
       "adult": false,
       "overview": "Matchmaker, Dolly Levi takes a trip to Yonkers, New York to see the \"well-known unmarried half-a-millionaire,\" Horace Vandergelder. While there, she convinces him, his two stock clerks and his niece and her beau to go to New York City.",
       "release_date": "1969-12-12"
+    },
+    {
+      "vote_count": 0,
+      "id": 507531,
+      "video": false,
+      "vote_average": 0,
+      "title": "Hello & Goodbye",
+      "popularity": 4.346017,
+      "poster_path": "/lGTi0Ak7QLCMBnoOxj2WoNOMz0y.jpg",
+      "original_language": "en",
+      "original_title": "Hello & Goodbye",
+      "genre_ids": [],
+      "backdrop_path": null,
+      "adult": false,
+      "overview": "With wounds still open from the recent end of their 5 year relationship, Drew and Beth decide to meet up for a quiet dinner at Drew's apartment to help solidify their newly found station as \"just friends\".",
+      "release_date": "2018-03-09"
+    },
+    {
+      "vote_count": 126,
+      "id": 10699,
+      "video": false,
+      "vote_average": 6.3,
+      "title": "Hero",
+      "popularity": 10.73639,
+      "poster_path": "/gT4qFlAcRcMvOanRPjke3MOSZGo.jpg",
+      "original_language": "en",
+      "original_title": "Hero",
+      "genre_ids": [
+        18,
+        35,
+        53,
+        9648
+      ],
+      "backdrop_path": "/icHXjVqx5qjv7axTU0NRtxvQYUz.jpg",
+      "adult": false,
+      "overview": "Bernie Laplante is having a rough time. He's divorced, his ex-wife hates him and has custody of their son, the cops are setting a trap for him, then to top it all, he loses a shoe whilst rescuing passengers of a crashed jet. Being a thief who is down on his luck, Bernie takes advantage of the crash, but then someone else claims credit for the rescue.",
+      "release_date": "1992-10-02"
+    },
+    {
+      "vote_count": 104,
+      "id": 410554,
+      "video": false,
+      "vote_average": 5.3,
+      "title": "First Kill",
+      "popularity": 20.213508,
+      "poster_path": "/zoia9YSg82UNYbtum9QYjKSqdLw.jpg",
+      "original_language": "en",
+      "original_title": "First Kill",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "backdrop_path": "/dhX8LZJkREFmRcrbEGNkf6EE0OL.jpg",
+      "adult": false,
+      "overview": "A police chief tries to solve a kidnapping that involves a bank robber holding a young boy hostage.",
+      "release_date": "2017-07-21"
+    },
+    {
+      "vote_count": 371,
+      "id": 11596,
+      "video": false,
+      "vote_average": 6.4,
+      "title": "New Nightmare",
+      "popularity": 10.696043,
+      "poster_path": "/oLEZibnraixTE68rTaYv4FEmvYd.jpg",
+      "original_language": "en",
+      "original_title": "New Nightmare",
+      "genre_ids": [
+        27,
+        53,
+        9648,
+        14
+      ],
+      "backdrop_path": "/33TTFIqH3cGG5KVk6EvpKKvpegN.jpg",
+      "adult": false,
+      "overview": "Freddy's back … and he's badder than ever! Nancy, the historical nemesis of the man with the satanic snarl and pitchfork fingers, discovers that a new monstrous demon has taken on Freddy's persona. Can Nancy stop this new threat in time to save her son?",
+      "release_date": "1994-10-13"
     }
   ]
 }

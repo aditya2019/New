@@ -8,15 +8,14 @@ import { MovieSearchComponent } from './componets/movies/movie-search/movie-sear
 import { MovieListComponent } from './componets/movies/movie-list/movie-list.component';
 import { MovieComponent } from './componets/movies/movie-list/movie/movie.component';
 import { FavMoviesComponent } from './componets/fav-movies/fav-movies.component';
-import { FavMovieComponent } from './componets/fav-movies/fav-movie/fav-movie.component';
 import { HeaderComponent } from './componets/shared/header/header.component';
 import { FooterComponent } from './componets/shared/footer/footer.component';
 import { HttpModule } from '@angular/http';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 const routes :Routes = [
-  {path: '', redirectTo:'/movies',pathMatch:'full'},
-  {path: 'movies', component:MoviesComponent},
+  {path: '', redirectTo:'/home',pathMatch:'full'},
+  {path: 'home', component:MoviesComponent},
   {path: 'favourite', component:FavMoviesComponent },
 ];
 
@@ -29,7 +28,6 @@ const routes :Routes = [
     MovieListComponent,
     MovieComponent,
     FavMoviesComponent,
-    FavMovieComponent,
     HeaderComponent,
     FooterComponent
   ],

@@ -7,14 +7,21 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MoviesComponent implements OnInit {
 	public movies =[];
-  constructor() { }
+  public movieobj=[];
+  constructor() {
+
+  }
 
   ngOnInit() {
   }
-
+setfavmovi(event)
+{
+  this.movieobj=event.sendltoms;
+  console.log(this.movieobj);
+}
   // Update movies list based on search text
   setMovielist(event) {
   	this.movies = event.moviesList;
-    console.log(this.movies);
+
   }
 }

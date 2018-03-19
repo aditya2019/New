@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input , Output , EventEmitter } from '@angular/core';
 import { JsonApiService } from '../../../../services/json-api.service';
 import { AppConfig } from '../../../../config/config.constant';
 
@@ -12,31 +12,28 @@ export class MovieComponent implements OnInit {
 	@Input() movie: any;
   public movieUrl=AppConfig.baseUrl;
   public favMovies : any =[];
+// send -
+@Output() sender = new EventEmitter<any>();
+
+//-------
    public errorMsg ='';
    public showError : boolean = false;
   constructor(private jsonApiService: JsonApiService) { }
 
   ngOnInit() {
-
   }
-
-// Add favourite movie to database
-//addMovie(movie) {
-// 	this.movieService.addMovie(movie).subscribe((res) =>{
-//	}, (error) =>{
-//  })
-//   }
 
 addToFavorite(movie) {
     this.jsonApiService.addToFavourite(movie).subscribe((res) =>{
       this.favMovies = res;
-      
+
+      this.sender.emit({
+        'moviessend': this.favMovies
+      });
     },(error:any)=>{
     this.errorMsg = error.statusText;
     this.showError = true;
         })
   }
-
-// Add favourite movie to  json
 
 }

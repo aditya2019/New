@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input , Output , EventEmitter} from '@angular/core';
 
 @Component({
   selector: 'app-movie-list',
@@ -7,11 +7,17 @@ import { Component, OnInit, Input } from '@angular/core';
 })
 export class MovieListComponent implements OnInit {
 
-	@Input() movies: Array<String>  = [];
-
+	@Input() public movies: Array<String>  = [];
+   public movieobj= [];
+//send ----
+@Output() movielisttomovies = new EventEmitter<any>();
+//----------
   constructor() { }
 
   ngOnInit() {
+    this.movielisttomovies.emit({
+      'sendltoms': this.movieobj
+    });
   }
 
 }

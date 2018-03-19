@@ -1,3 +1,10 @@
-<p>
-  fav-movies works!
-</p>
+<div class="container">
+  <div class="row">
+    <div class="col-md-6"  *ngFor="let movie of finaldata">
+      <div class="card">
+        <app-movie [movie]="movie"></app-movie>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- code commied -->

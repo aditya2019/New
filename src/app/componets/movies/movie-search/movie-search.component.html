@@ -1,0 +1,6 @@
+<div class="container input-group my-3 w-50">
+  <input type="text" (keyup.enter)="search()" class="form-control" [(ngModel)]="searchedText" placeholder="Search movie.." >
+  <div class="input-group-append">
+     <button type="submit" id="search-ico" (click)="searchMovie()"><i class="fa fa-search"></i></button>
+  </div>
+</div>

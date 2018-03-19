@@ -1,0 +1,30 @@
+.nav-link{
+	color: white;
+	font-size: 1rem;
+}
+.navbar-brand{
+	font-size: 1.5rem;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+.nav-icon{
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	text-transform: uppercase;
+
+}
+.nav-icon:hover{
+	background-color:red;
+}
+#logocolor
+{
+  color:#90EE90;
+}
+#headingcolor
+{
+  color:white;
+}
+#hiddenbutton
+{
+  color:white;
+}

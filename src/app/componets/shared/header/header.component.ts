@@ -7,8 +7,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
   constructor() { }
-
+	public t1: string='';
   ngOnInit() {
   }
-
+flag1()
+{
+  this.t1='true';
+}
+flag2()
+{
+  this.t1='false';
+}
 }

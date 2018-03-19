@@ -8,6 +8,7 @@ import { Component, OnInit, Input , Output , EventEmitter} from '@angular/core';
 export class MovieListComponent implements OnInit {
 
 	@Input() public movies: Array<String>  = [];
+  @Input() flag: string;
    public movieobj= [];
 //send ----
 @Output() movielisttomovies = new EventEmitter<any>();

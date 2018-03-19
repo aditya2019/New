@@ -10,6 +10,7 @@ import { AppConfig } from '../../../../config/config.constant';
 })
 export class MovieComponent implements OnInit {
 	@Input() movie: any;
+  @Input() flag: any;
   public movieUrl=AppConfig.baseUrl;
   public favMovies : any =[];
 // send -

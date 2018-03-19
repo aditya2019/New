@@ -10,8 +10,9 @@ import { ActivatedRoute } from '@angular/router';
 })
 export class FavMoviesComponent implements OnInit {
   public finaldata : any=[];
+  public flag='list';
   constructor(private jsonApiService: JsonApiService,private route:ActivatedRoute) {
-   this.route.params.subscribe(params => console.log(params));
+
    }
 
   ngOnInit() {
@@ -21,7 +22,6 @@ export class FavMoviesComponent implements OnInit {
   getFavourite() {
       this.jsonApiService.getFavourite().subscribe((res) =>{
         this.finaldata = res;
-        console.log(this.finaldata);
       },(error:any)=>{
 
           })

@@ -1,10 +1,3 @@
-<div class="container">
-  <div class="row">
-    <div class="col-md-6"  *ngFor="let movie of finaldata">
-      <div class="card">
-        <app-movie [movie]="movie"></app-movie>
-      </div>
-    </div>
-  </div>
-</div>
+<app-movie-list [movies]="finaldata"></app-movie>
+
 <!-- code commied -->

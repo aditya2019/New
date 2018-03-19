@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class MoviesComponent implements OnInit {
 	public movies =[];
   public movieobj=[];
+  public flag = 'search';
   constructor() {
 
   }
